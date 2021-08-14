@@ -26,10 +26,8 @@
 • Programação Orientada a objetos (POO)
 
 ##### Basecamp 42 São Paulo
-• C and ShellScript
+• C and Shell Script
 
-##### Digital Inovation One
-• 
 
 <!--
 **ingridleeabdala/ingridleeabdala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
