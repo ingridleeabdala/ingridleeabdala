@@ -35,8 +35,8 @@
 
 ### 🔍 Find me there
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridleeabdala/)
-
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridleeabdala/)
+![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&lin=https://www.instagram.com/ingriidlee/)
 
 
 <!--
