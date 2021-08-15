@@ -23,10 +23,20 @@
 • Design Thinking
 
 ##### Fundação Bradesco
-• Programação Orientada a objetos (POO)
+• Introduction to essential programming logic<br />
+• Object-oriented programming
 
 ##### Basecamp 42 São Paulo
 • C and Shell Script
+
+##### Digital Inovation One
+
+• Git and Git Hub <br />
+
+### 🔍 Find me there
+
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridleeabdala/)
+
 
 
 <!--
