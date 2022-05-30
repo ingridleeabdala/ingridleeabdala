@@ -2,36 +2,6 @@
 ### 👩‍💻 About me 
 
 • Studying computer programming<br />
-• I'm currently learning Python<br />
-• I've participated on basecamp 2021 of 42 São Paulo
-
-
-### 🛠 Tech Stack
-
-• Python | C | Shell Script <br />
-• PyCharm | Visual Studio code <br />
-• Adobe Illustrator | Adobe Photoshop | CorelDraw 
-
-
-### 💻 Courses
-
-##### FIAP ON
-
-• Blockchain advanced <br />
-• Mobile Marketing <br />
-• Python <br />
-• Design Thinking
-
-##### Fundação Bradesco
-• Introduction to essential programming logic<br />
-• Object-oriented programming
-
-##### Basecamp 42 São Paulo
-• C and Shell Script
-
-##### Digital Inovation One
-
-• Git and Git Hub <br />
 
 ### 🔍 Find me there
 
