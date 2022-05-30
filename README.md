@@ -2,7 +2,7 @@
 ### 👩‍💻 About me 
 
 • Studying computer programming<br />
-• Currently working as a Software Engineer at CloudWalk <br />
+• Currently working as a Software Engineer at [:credit_card: cloudwalk](https://cloudwalk.io)<br />
 
 
 ### 🔍 Find me there
