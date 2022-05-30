@@ -2,6 +2,8 @@
 ### 👩‍💻 About me 
 
 • Studying computer programming<br />
+• Currently working as a Software Engineer at Cloudwalk<br />
+
 
 ### 🔍 Find me there
 
